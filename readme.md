@@ -16,7 +16,7 @@
 1. Клонируй проект или скопируй файлы в каталог:
 
 ```bash
-git clone https://github.com/yourname/telegram-role-bot.git
+git clone https://github.com/dzorogh/telegram-role-bot.git
 cd telegram-role-bot
 ```
 
