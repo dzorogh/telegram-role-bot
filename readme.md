@@ -61,7 +61,7 @@ docker-compose up -d --build
 
 ## 💬 Поддержка
 
-Вопросы, баги и предложения — через [Issues](https://github.com/yourname/telegram-role-bot/issues)
+Вопросы, баги и предложения — через [Issues](https://github.com/dzorogh/telegram-role-bot/issues)
 
 ---
 
